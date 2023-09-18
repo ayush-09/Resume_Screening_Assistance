@@ -1,24 +1,22 @@
 <p align="center">
-  <img src="your_project_logo.png" alt="HR - Resume Screening Assistant" width="300" height="300">
+  <img src="https://github.com/ayush-09/Resume_Screening_Assistance/assets/51924622/39cd5a52-b940-4531-8866-e1c0ded86498" alt="HR - Resume Screening Assistant" width="500" height="270">
 </p>
 
 <h1 align="center">HR - Resume Screening Assistant</h1>
 
-<p align="center">Streamline Your Resume Screening Process with Ease</p>
+<p align="center">Streamline Your Resume Screening Process </p>
 
 <p align="center">
   <a href="#description">Description</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#features">Features</a> •
-  <a href="#contributing">Contributing</a> •
   <a href="#license">License</a> •
   <a href="#contact">Contact</a>
 </p>
 
 ---
-
-![HR - Resume Screening Assistant in Action](screenshot.png)
+![HR - Resume Screening Assistant in Action](https://github.com/ayush-09/Resume_Screening_Assistance/assets/51924622/07770665-a646-4d30-be65-c5592df0c6bb)
 
 ## Description
 
@@ -39,9 +37,8 @@ Getting started with **HR - Resume Screening Assistant** is a breeze. Follow the
 1. **Clone this Repository:** `git clone https://github.com/your-username/your-project.git`
 2. **Navigate to Project Directory:** `cd your-project`
 3. **Install Dependencies:** `pip install -r requirements.txt`
-4. **Create Upload Folder:** Create a folder named "uploaded_files" in the project directory.
-5. **Configure Environment:** Set up environment variables or create a `.env` file (see `.env.example` for guidance).
-6. **Run the Application:** Execute `streamlit run app.py`.
+4. **Configure Environment:** Set up environment variables or create a `.env` file (see `.env.example` for guidance).
+5. **Run the Application:** Execute `streamlit run app.py`.
 
 ## Usage
 
@@ -61,10 +58,6 @@ Getting started with **HR - Resume Screening Assistant** is a breeze. Follow the
 - **Customizable Settings:** Adjust the number of resumes to return to suit your needs.
 - **Skill Extraction:** Extract essential skills from shortlisted resumes.
 - **Downloadable Reports:** Export extracted skills as a CSV for further analysis.
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to get involved, please follow our [Contribution Guidelines](CONTRIBUTING.md) for more details on how to contribute to the project.
 
 ## License
 
