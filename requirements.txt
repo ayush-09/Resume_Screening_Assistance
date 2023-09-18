@@ -1,0 +1,14 @@
+langchain
+streamlit
+openai
+tiktoken
+python-dotenv
+unstructured
+pinecone-client
+pypdf
+sentence_transformers
+spacy
+tensorflow
+nltk
+pyresparser
+en-core-web-sm==2.3.1
