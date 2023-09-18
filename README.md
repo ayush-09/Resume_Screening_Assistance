@@ -59,6 +59,12 @@ Getting started with **HR - Resume Screening Assistant** is a breeze. Follow the
 - **Skill Extraction:** Extract essential skills from shortlisted resumes.
 - **Downloadable Reports:** Export extracted skills as a CSV for further analysis.
 
+## Result
+
+The result of using the **HR - Resume Screening Assistant** is a more efficient and effective resume screening process. You can quickly identify and retrieve the most relevant resumes for your job openings, saving you time and helping you find the perfect candidates.
+<br>
+![Screenshot (6)](https://github.com/ayush-09/Resume_Screening_Assistance/assets/51924622/c41719fe-06df-4d60-bb0c-3105ef56808f)
+
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
