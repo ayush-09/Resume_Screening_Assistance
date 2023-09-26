@@ -1,6 +1,5 @@
 langchain
 streamlit
-tiktoken
 python-dotenv
 unstructured
 pinecone-client
@@ -10,4 +9,4 @@ spacy
 tensorflow
 nltk
 pyresparser
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz --no-deps
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz
