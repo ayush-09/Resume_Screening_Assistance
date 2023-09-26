@@ -38,7 +38,8 @@ Getting started with **HR - Resume Screening Assistant** is a breeze. Follow the
 2. **Navigate to Project Directory:** `cd your-project`
 3. **Install Dependencies:** `pip install -r requirements.txt`
 4. **Configure Environment:** Set up environment variables or create a `.env` file (see `.env.example` for guidance).
-5. **Run the Application:** Execute `streamlit run app.py`.
+5. **Change the Pinecone API:** Create a new indexes according to the **_model dimension: 384_** on your account and also change the location and name of indexes.
+6. **Run the Application:** Execute `streamlit run app.py`.
 
 ## Usage
 
