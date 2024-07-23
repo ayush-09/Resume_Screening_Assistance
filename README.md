@@ -1,3 +1,6 @@
+#version 2.0 is still not updated in readme.md
+
+
 <p align="center">
   <img src="https://github.com/ayush-09/Resume_Screening_Assistance/assets/51924622/39cd5a52-b940-4531-8866-e1c0ded86498" alt="HR - Resume Screening Assistant" width="500" height="270">
 </p>
